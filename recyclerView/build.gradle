@@ -8,7 +8,7 @@ publish {
     artifactId = 'recyclerView'//项目名称
     publishVersion = '0.0.1'//版本号
     desc = 'recyclerView相关工具'//描述，不重要
-    website = 'https://github.com/guaixiangjieke/recyclerView.git'//网站，最好有，不重要
+    website = 'https://github.com/guaixiangjieke/RecyclerView.git'//网站，最好有，不重要
 }
 
 android {
