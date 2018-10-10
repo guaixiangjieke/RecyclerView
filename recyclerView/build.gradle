@@ -6,7 +6,7 @@ publish {
     userOrg = 'guaixiangjieke'//bintray.com用户名
     groupId = 'com.nl.recyclerView'//jcenter上的路径
     artifactId = 'recyclerView'//项目名称
-    publishVersion = '0.0.1'//版本号
+    publishVersion = '0.0.2'//版本号
     desc = 'recyclerView相关工具'//描述，不重要
     website = 'https://github.com/guaixiangjieke/RecyclerView.git'//网站，最好有，不重要
 }
